@@ -5,6 +5,9 @@ Huang Ronggui
 Department of Sociology
 Fudan  University
 ronggui.huang@gmail.com
+
+Note: gensim 3.2.0 does not work with numpy 1.13.3 from anaconda
+      need to install numpy using pip
 """
 
 
@@ -118,3 +121,4 @@ model.show_topics()
 # topic probabilities of docs
 doc0 = mm_corpus[0]
 model[doc0]
+
