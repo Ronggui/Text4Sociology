@@ -32,7 +32,7 @@ import csv
 logging.basicConfig(format='%(asctime)s : %(message)s', level=logging.INFO)
 
 
-os.chdir('/Users/rghuang/Documents/Works/教学资料/互联网与大数据研究/培训讲义/复旦大学暑期学校')
+os.chdir('/培训讲义/复旦大学暑期学校')
 
 
 def get_words(file):
