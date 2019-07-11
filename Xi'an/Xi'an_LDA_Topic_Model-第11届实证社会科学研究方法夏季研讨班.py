@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Copyright (C) 2019 Ronggui Huang <rghuang@fudan.edu.cn>
+10-11 July 2019
 
 Huang Ronggui
 Department of Sociology
